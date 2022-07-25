@@ -19,5 +19,5 @@ To install necessary dependencies, run the following command: `npm install` afte
 
 ## Usage
 
-The Github repository can be viewed via this link, 
-The deployed application can be viewed via this link, 
+The Github repository can be viewed via this link, https://tim-adcoder.github.io/PWA--Text-Editor/
+The deployed application can be viewed via this Heroku link, https://desolate-wave-52416.herokuapp.com/
