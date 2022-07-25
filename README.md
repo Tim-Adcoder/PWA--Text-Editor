@@ -6,6 +6,8 @@ The motivation was to build a text editor that runs in the browser. The app is a
 
 I learnt about using IndexedDB database, idb, IndexedDB API and much more.
 
+![image](https://user-images.githubusercontent.com/92215345/180808296-0c558b50-b686-4309-bc7f-2d5bc316e2ff.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
