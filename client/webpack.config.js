@@ -18,12 +18,18 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
-      
+      //webpack plugin to add index.html that link to JS
+
+      //service worker
+
+      //create a manifest.json file
     ],
 
     module: {
       rules: [
-        
+        //css loaders
+
+        //babel-loader to translate JS ES6
       ],
     },
   };
